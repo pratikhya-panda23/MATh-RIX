@@ -1,3 +1,4 @@
+# MATh-RIX
 # Mathematical AI Agent System: Project README
 
 ## Project Overview
