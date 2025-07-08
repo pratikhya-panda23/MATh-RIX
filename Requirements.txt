@@ -1,0 +1,18 @@
+# Core libraries
+openai
+qdrant-client
+sentence-transformers
+tavily-python
+dotenv
+chainlit
+requests
+langgraph
+dspy
+# For feedback logging
+python-dotenv
+# For web search fallback
+# (tavily-python already included)
+# For workflow orchestration
+# (langgraph already included)
+# For web interface
+# (chainlit already included)
